@@ -1,7 +1,7 @@
 """
 SQLBridge MCP - A lightweight MCP server for Microsoft SQL Server.
 Connects AI assistants to SQL Server databases via the Model Context Protocol.
-https://github.com/Sobeih/sqlbridge-mcp
+https://github.com/SobeihYahia/MCP-Server-SqlServer
 """
 
 import os

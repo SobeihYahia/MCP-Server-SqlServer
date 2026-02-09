@@ -27,8 +27,8 @@ A lightweight [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) s
 ## Installation
 
 ```bash
-git clone https://github.com/Sobeih/sqlbridge-mcp.git
-cd sqlbridge-mcp
+git clone https://github.com/SobeihYahia/MCP-Server-SqlServer.git
+cd MCP-Server-SqlServer
 pip install -r requirements.txt
 ```
 
@@ -147,4 +147,4 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ## Author
 
-**Sobeih** — [GitHub](https://github.com/Sobeih)
+**Sobeih Yahia** — [GitHub](https://github.com/SobeihYahia)
